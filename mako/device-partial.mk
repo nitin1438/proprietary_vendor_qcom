@@ -38,7 +38,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/mako/proprietary/vendor/firmware/vidc.b03:system/vendor/firmware/vidc.b03:qcom \
     vendor/qcom/mako/proprietary/vendor/firmware/vidc.mdt:system/vendor/firmware/vidc.mdt:qcom \
     vendor/qcom/mako/proprietary/vendor/lib/hw/flp.msm8960.so:system/vendor/lib/hw/flp.msm8960.so:qcom \
-    vendor/qcom/mako/proprietary/vendor/lib/hw/sensors.msm8960.so:system/vendor/lib/hw/sensors.msm8960.so:qcom \
+    vendor/qcom/mako/proprietary/vendor/lib/sensors.mako.so:system/vendor/lib/sensors.mako.so:qcom \
     vendor/qcom/mako/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so:qcom \
     vendor/qcom/mako/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so:qcom \
     vendor/qcom/mako/proprietary/vendor/lib/libchromatix_imx111_default_video.so:system/vendor/lib/libchromatix_imx111_default_video.so:qcom \
